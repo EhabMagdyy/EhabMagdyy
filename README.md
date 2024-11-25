@@ -1,7 +1,7 @@
 # Hi there, I'm Ehab Magdy Abdullah! 👋
 
 ### About Me
-I'm a passionate developer and embedded systems enthusiast. I enjoy exploring programming languages, diving into microcontroller projects, and building innovative solutions. Whether it's low-level embedded programming or high-level software development, I strive to learn and grow every day.
+I'm a passionate embedded systems enthusiast and developer. I enjoy exploring programming languages, diving into microcontroller projects, and building innovative solutions. Whether it's low-level embedded programming or high-level software development, I strive to learn and grow every day.
 
 ---
 
@@ -34,6 +34,7 @@ I'm a passionate developer and embedded systems enthusiast. I enjoy exploring pr
 #### **IoT Platforms**
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5?style=for-the-badge&logo=firebase&logoColor=white) 
 ![Azure](https://img.shields.io/badge/Azure-%23007FFF?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-%23D50032?style=for-the-badge&logo=node-red&logoColor=white)
 
 ---
 

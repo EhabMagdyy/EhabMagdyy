@@ -41,10 +41,5 @@ Here’s a list of technologies I have experience with:
 
 ---
 
-### Contribution Graph
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=EhabMagdyy&theme=react-dark)
-
----
-
 ### Quote
 > "Consistency is the key."

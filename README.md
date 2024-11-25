@@ -37,10 +37,5 @@ I'm a passionate developer and embedded systems enthusiast. I enjoy exploring pr
 
 ---
 
-### Contribution Graph
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=EhabMagdyy&theme=react-dark)
-
----
-
 ### Quote
 > "Consistency is the key."

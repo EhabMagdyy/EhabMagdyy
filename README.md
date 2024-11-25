@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi there, I'm Ehab Magdy Abdullah! 👋
 
-<!--
-**EhabMagdyy/EhabMagdyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I'm a passionate developer and embedded systems enthusiast. I enjoy exploring programming languages, diving into microcontroller projects, and building innovative solutions. Whether it's low-level embedded programming or high-level software development, I strive to learn and grow every day.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EhabMagdyy&show_icons=true&theme=radical)
+
+### Languages and Tools
+Here’s a list of technologies I have experience with:
+
+#### **Programming Languages**
+- C
+- C++
+- Java
+- Python
+- Dart
+- Bash
+
+#### **Tools**
+- VS Code
+- STM32CubeIDE
+- STM32CubeMX
+- Eclipse
+- MPLAB
+- Proteus
+- NetBeans
+
+#### **Microcontrollers**
+- STM32
+- ESP
+- PIC
+- AVR
+
+---
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EhabMagdyy&layout=compact&theme=radical)
+
+---
+
+### Contribution Graph
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=EhabMagdyy&theme=react-dark)
+
+---
+
+### Quote
+> "Consistency is the key."

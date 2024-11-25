@@ -5,7 +5,7 @@ I'm a passionate developer and embedded systems enthusiast. I enjoy exploring pr
 
 ---
 
-### Languages and Tools
+### Techonlogies
 
 #### **Programming Languages**
 ![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white) 
@@ -16,6 +16,12 @@ I'm a passionate developer and embedded systems enthusiast. I enjoy exploring pr
 ![Dart](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)
 
+#### **Microcontrollers**
+![STM32](https://img.shields.io/badge/STM32-%23217576?style=for-the-badge&logo=stm32&logoColor=white) 
+![ESP](https://img.shields.io/badge/ESP32-%23001C8C?style=for-the-badge&logo=espressif&logoColor=white) 
+![PIC](https://img.shields.io/badge/PIC-%230058D1?style=for-the-badge&logo=microchip&logoColor=white) 
+![AVR](https://img.shields.io/badge/AVR-%23E46C23?style=for-the-badge&logo=atmel&logoColor=white)
+
 #### **Tools**
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-%23217576?style=for-the-badge&logo=stm32&logoColor=white) 
@@ -25,11 +31,9 @@ I'm a passionate developer and embedded systems enthusiast. I enjoy exploring pr
 ![Proteus](https://img.shields.io/badge/Proteus-%2300A9E0?style=for-the-badge&logo=autodesk&logoColor=white) 
 ![NetBeans](https://img.shields.io/badge/NetBeans-%23000000?style=for-the-badge&logo=netbeans&logoColor=white)
 
-#### **Microcontrollers**
-![STM32](https://img.shields.io/badge/STM32-%23217576?style=for-the-badge&logo=stm32&logoColor=white) 
-![ESP](https://img.shields.io/badge/ESP32-%23001C8C?style=for-the-badge&logo=espressif&logoColor=white) 
-![PIC](https://img.shields.io/badge/PIC-%230058D1?style=for-the-badge&logo=microchip&logoColor=white) 
-![AVR](https://img.shields.io/badge/AVR-%23E46C23?style=for-the-badge&logo=atmel&logoColor=white)
+#### **IoT Platforms**
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5?style=for-the-badge&logo=firebase&logoColor=white) 
+![Azure](https://img.shields.io/badge/Azure-%23007FFF?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
 

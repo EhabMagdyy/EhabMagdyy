@@ -6,7 +6,7 @@ I'm a passionate embedded systems enthusiast and developer. I enjoy exploring pr
 ---
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EhabMagdyy&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EhabMagdyy&show_icons=true&hide=issues,prs&count_private=true&theme=radical)
 
 ---
 

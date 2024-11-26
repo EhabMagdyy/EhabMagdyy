@@ -45,4 +45,4 @@ I'm a passionate embedded systems enthusiast and developer. I enjoy exploring pr
 
 ---
 
-# > "Consistency is the key."
+> "Consistency is the key."

@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://youtube.com/@EhabMagdyy" target="_blank">
-    ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a> |
   <a href="https://www.linkedin.com/in/ehabmagdyy" target="_blank">
-    ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 

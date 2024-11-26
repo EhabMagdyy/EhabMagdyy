@@ -1,8 +1,10 @@
-# Hi there, I'm Ehab Magdy Abdullah! 👋
+<p align="center">
+  <a ## Hi there, I'm Ehab Magdy Abdullah! 👋 /a>
+</p>
 
 <p align="center">
-  <a href="https://youtube.com/@EhabMagdyy" target="_blank"><img src="https://img.shields.io/badge/YouTube-EhabMagdyy-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://www.linkedin.com/in/ehabmagdyy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-EhabMagdyy-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://youtube.com/@EhabMagdyy" target="_blank">YouTube</a> |
+  <a href="https://www.linkedin.com/in/ehabmagdyy" target="_blank">LinkedIn</a>
 </p>
 
 👨‍💻 I'm a passionate embedded systems enthusiast and developer. I enjoy exploring programming languages, diving into microcontroller projects, and building innovative solutions. Whether it's low-level embedded programming or high-level software development, I strive to learn and grow every day.

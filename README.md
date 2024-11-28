@@ -1,5 +1,5 @@
-<p align="center" style="font-size: 60px;">
-  Hi 👋, I'm Ehab!
+<p align="center">
+  **Hi 👋, I'm Ehab!**
 </p>
 
 <p align="center">

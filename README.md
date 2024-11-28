@@ -1,6 +1,4 @@
-<p align="center">
-  **Hi 👋, I'm Ehab!**
-</p>
+<h1 align="center">hi 👋, I'm Ehab </h1>
 
 <p align="center">
   <a href="https://youtube.com/@EhabMagdyy" target="_blank">

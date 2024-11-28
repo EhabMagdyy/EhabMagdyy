@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 30px;">
+<p align="center" style="font-size: 60px;">
   Hi 👋, I'm Ehab!
 </p>
 
@@ -12,8 +12,6 @@
 </p>
 
 👨‍💻 I'm a passionate embedded systems enthusiast and developer. I enjoy exploring programming languages, diving into microcontroller projects, and building innovative solutions. Whether it's low-level embedded programming or high-level software development, I strive to learn and grow every day.
-
-![Profile Views](https://img.shields.io/badge/Profile%20Views-1234-blue)
 
 ---
 

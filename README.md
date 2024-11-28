@@ -1,4 +1,4 @@
-<h1 align="center">hi 👋, I'm Ehab </h1>
+<h1 align="center">hi 👋, H'm Ehab </h1>
 
 <p align="center">
   <a href="https://youtube.com/@EhabMagdyy" target="_blank">
@@ -8,6 +8,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=EhabMagdyy&"  />
+</div>
 
 👨‍💻 I'm a passionate embedded systems enthusiast and developer. I enjoy exploring programming languages, diving into microcontroller projects, and building innovative solutions. Whether it's low-level embedded programming or high-level software development, I strive to learn and grow every day.
 

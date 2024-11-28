@@ -9,10 +9,6 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=EhabMagdyy&"  />
-</div>
-
 👨‍💻 I'm a passionate embedded systems enthusiast and developer. I enjoy exploring programming languages, diving into microcontroller projects, and building innovative solutions. Whether it's low-level embedded programming or high-level software development, I strive to learn and grow every day.
 
 ---
@@ -57,8 +53,9 @@
 
 ---
 
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EhabMagdyy&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ---
 

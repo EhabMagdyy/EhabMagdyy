@@ -14,7 +14,18 @@
 ---
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EhabMagdyy&show_icons=true&hide=issues,prs&count_private=true&theme=radical)
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=EhabMagdyy&show_icons=true&hide=issues,prs&count_private=true&theme=radical"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=EhabMagdyy&theme=radical&hide_border=false" alt="Streak Stats 2"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 

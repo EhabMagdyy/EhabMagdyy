@@ -13,16 +13,14 @@
 
 ### GitHub Stats
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=EhabMagdyy&show_icons=true&hide=issues,prs&count_private=true&theme=radical"/>
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=EhabMagdyy&theme=radical&hide_border=false" alt="Streak Stats 2"/>
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=EhabMagdyy&show_icons=true&count_private=true&theme=radical&hide=issues" alt="GitHub Stats" height="200" width="400"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EhabMagdyy&theme=radical&hide_border=false" alt="Streak Stats" height="200" width="400"/>
+  </div>
+
+  <div style="margin-top: 20px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EhabMagdyy&theme=radical" alt="Profile Details" width="820"/>
+  </div>
 </div>
 
 ---

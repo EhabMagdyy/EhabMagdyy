@@ -34,7 +34,7 @@
 
 </div>
 
-#### **Microcontrollers**
+#### Controllers
 <div align="center">
 
 ![STM32](https://img.shields.io/badge/STM32-%23217576?style=for-the-badge&logo=stm32&logoColor=white) 

@@ -11,23 +11,19 @@
 
 ---
 
-### GitHub Stats
+#### GitHub Stats
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=EhabMagdyy&show_icons=true&count_private=true&theme=radical&hide=issues" alt="GitHub Stats" height="200" width="400"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EhabMagdyy&theme=radical&hide_border=false" alt="Streak Stats" height="200" width="400"/>
-  </div>
-
-  <div style="margin-top: 20px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EhabMagdyy&theme=radical" alt="Profile Details" width="820"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=EhabMagdyy&show_icons=true&count_private=true&theme=radical&hide=issues" alt="GitHub Stats" height="160" width="380"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EhabMagdyy&theme=radical&hide_border=false" alt="Streak Stats" height="160" width="380"/>
   </div>
 </div>
 
 ---
 
-### Techonlogies
-
 #### **Programming Languages**
+<div align="center">
+  
 ![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-%23F7B93E?style=for-the-badge&logo=java&logoColor=white) 
@@ -36,13 +32,22 @@
 ![Dart](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)
 
+</div>
+
 #### **Microcontrollers**
+<div align="center">
+
 ![STM32](https://img.shields.io/badge/STM32-%23217576?style=for-the-badge&logo=stm32&logoColor=white) 
 ![ESP](https://img.shields.io/badge/ESP32-%23001C8C?style=for-the-badge&logo=espressif&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![PIC](https://img.shields.io/badge/PIC-%230058D1?style=for-the-badge&logo=microchip&logoColor=white) 
 ![AVR](https://img.shields.io/badge/AVR-%23E46C23?style=for-the-badge&logo=atmel&logoColor=white)
 
+</div>
+
 #### **Tools**
+<div align="center">
+  
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-%23217576?style=for-the-badge&logo=stm32&logoColor=white) 
 ![STM32CubeMX](https://img.shields.io/badge/STM32CubeMX-%23217576?style=for-the-badge&logo=stm32&logoColor=white) 
@@ -53,10 +58,16 @@
 ![Proteus](https://img.shields.io/badge/Proteus-%2300A9E0?style=for-the-badge&logo=autodesk&logoColor=white) 
 ![NetBeans](https://img.shields.io/badge/NetBeans-%23000000?style=for-the-badge&logo=netbeans&logoColor=white)
 
+</div>
+
 #### **IoT Platforms**
+<div align="center">
+
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5?style=for-the-badge&logo=firebase&logoColor=white) 
 ![Azure](https://img.shields.io/badge/Azure-%23007FFF?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Node-RED](https://img.shields.io/badge/Node--RED-%23D50032?style=for-the-badge&logo=node-red&logoColor=white)
+
+</div>
 
 ---
 

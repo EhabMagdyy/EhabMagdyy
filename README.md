@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ehab</h1><p align="center"> I'm a passionate Software Engineer with a love for technology, creativity, and problem-solving. With a background in Embedded Software Development and IoT, I enjoy exploring new tools and frameworks to build innovative solutions. I’m always eager to learn and grow. </p><p align="center"> <a href="https://youtube.com/@EhabMagdyy" target="_blank"> <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/> </a> <a href="https://www.linkedin.com/in/ehabmagdyy" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Ehab</h1><p align="center"> 📌 I'm a passionate Software Engineer with a love for technology, creativity, and problem-solving. With a background in Embedded Software Development and IoT, I enjoy exploring new tools and frameworks to build innovative solutions. I’m always eager to learn and grow. </p><p align="center"> <a href="https://youtube.com/@EhabMagdyy" target="_blank"> <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/> </a> <a href="https://www.linkedin.com/in/ehabmagdyy" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p>
 
 ---
 
-#### GitHub Stats
+#### 📊 GitHub Stats
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=EhabMagdyy&show_icons=true&count_private=true&theme=radical&hide=issues" alt="GitHub Stats" height="160" width="380"/>
@@ -12,7 +12,7 @@
 
 ---
 
-#### **Programming Languages**
+#### 💻 Programming Languages
 <div align="center">
   
 ![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white) 
@@ -25,7 +25,7 @@
 
 </div>
 
-#### Controllers
+#### 🎮 Controllers
 <div align="center">
 
 ![STM32](https://img.shields.io/badge/STM32-%23217576?style=for-the-badge&logo=stm32&logoColor=white) 
@@ -36,7 +36,7 @@
 
 </div>
 
-#### **Tools**
+#### 🛠️ Tools
 <div align="center">
   
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
@@ -51,7 +51,7 @@
 
 </div>
 
-#### **IoT Platforms**
+#### ☁️ IoT Platforms
 <div align="center">
 
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5?style=for-the-badge&logo=firebase&logoColor=white) 

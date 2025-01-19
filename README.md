@@ -1,13 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ehab </h1>
-
-<p align="center">
-  <a href="https://youtube.com/@EhabMagdyy" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a> |
-  <a href="https://www.linkedin.com/in/ehabmagdyy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+<h1 align="center">Hi 👋, I'm Ehab</h1><p align="center"> I'm a passionate Software Engineer with a love for technology, creativity, and problem-solving. With a background in Embedded Software Development and IoT, I enjoy exploring new tools and frameworks to build innovative solutions. I’m always eager to learn and grow. </p><p align="center"> <a href="https://youtube.com/@EhabMagdyy" target="_blank"> <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/> </a> <a href="https://www.linkedin.com/in/ehabmagdyy" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p>
 
 ---
 

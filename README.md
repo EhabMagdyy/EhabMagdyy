@@ -58,11 +58,14 @@
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-%23217576?style=for-the-badge&logo=stm32&logoColor=white) 
 ![STM32CubeMX](https://img.shields.io/badge/STM32CubeMX-%23217576?style=for-the-badge&logo=stm32&logoColor=white) 
 ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-%2300979C?style=for-the-badge&logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MS SQL](https://img.shields.io/badge/MS%20SQL-%23CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-%23000000?style=for-the-badge&logo=eclipse&logoColor=white) 
 ![Keil](https://img.shields.io/badge/Keil-%230074A4?style=for-the-badge&logo=arm&logoColor=white)
 ![MPLAB](https://img.shields.io/badge/MPLAB%20X-%2300A3E0?style=for-the-badge&logo=microchip&logoColor=white) 
 ![Proteus](https://img.shields.io/badge/Proteus-%2300A9E0?style=for-the-badge&logo=autodesk&logoColor=white) 
 ![NetBeans](https://img.shields.io/badge/NetBeans-%23000000?style=for-the-badge&logo=netbeans&logoColor=white)
+
 
 </div>
 

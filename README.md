@@ -87,4 +87,4 @@
 
 > "Consistency is the key."
 
-> ![](https://komarev.com/ghpvc/?username=EhabMagdyy&color=grey)
+> ![](https://komarev.com/ghpvc/?username=EhabMagdyy&color=red)

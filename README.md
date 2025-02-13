@@ -1,4 +1,4 @@
-<h1>Social Media 🌐</h1>
+###  🌐 Social Media
 <p align="center">
   <a href="https://youtube.com/@EhabMagdyy" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
@@ -21,7 +21,7 @@
 
 ---
 
-#### 📊 GitHub Stats
+### 📊 GitHub Stats
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=EhabMagdyy&show_icons=true&count_private=true&theme=radical&hide=issues" alt="GitHub Stats" height="160" width="380"/>
@@ -31,7 +31,7 @@
 
 ---
 
-#### 💻 Programming Languages
+### 💻 Programming Languages
 <div align="center">
   
 ![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white) 
@@ -44,7 +44,9 @@
 
 </div>
 
-#### 🎮 Controllers
+--- 
+
+### 🎮 Controllers
 <div align="center">
 
 ![STM32](https://img.shields.io/badge/STM32-%23217576?style=for-the-badge&logo=stm32&logoColor=white) 
@@ -55,7 +57,10 @@
 
 </div>
 
-#### 🛠️ Tools
+
+---
+
+### 🛠️ Tools
 <div align="center">
   
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
@@ -73,7 +78,10 @@
 
 </div>
 
-#### ☁️ IoT Platforms
+
+---
+
+### ☁️ IoT Platforms
 <div align="center">
 
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFA000?style=for-the-badge&logo=firebase&logoColor=white)
@@ -83,7 +91,7 @@
 
 </div>
 
----
+----
 
 > "Consistency is the key."
 

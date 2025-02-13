@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ehab</h1>
-<p align="center">
-  📌 I'm a passionate Software Engineer. With a background in Embedded Software Development and IoT, I enjoy exploring new tools and frameworks to build innovative solutions. I’m always eager to learn and grow.
-</p>
+<h1>Contact With Me 🌐</h1>
 <p align="center">
   <a href="https://youtube.com/@EhabMagdyy" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>

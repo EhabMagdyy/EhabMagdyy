@@ -48,7 +48,7 @@
 <div align="center">
 
 ![STM32](https://img.shields.io/badge/STM32-%23217576?style=for-the-badge&logo=stm32&logoColor=white) 
-![ESP](https://img.shields.io/badge/ESP32-%23001C8C?style=for-the-badge&logo=espressif&logoColor=white) 
+![ESP](https://img.shields.io/badge/ESP-%23001C8C?style=for-the-badge&logo=espressif&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![PIC](https://img.shields.io/badge/PIC-%230058D1?style=for-the-badge&logo=microchip&logoColor=white) 
 ![AVR](https://img.shields.io/badge/AVR-%23E46C23?style=for-the-badge&logo=atmel&logoColor=white)

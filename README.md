@@ -67,6 +67,7 @@
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-%23217576?style=for-the-badge&logo=stm32&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-%2300979C?style=for-the-badge&logo=arduino&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%2337C211?style=for-the-badge&logo=qt&logoColor=white)
 ![MS SQL](https://img.shields.io/badge/MS%20SQL-%23CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)

@@ -3,7 +3,7 @@
   <a href="https://youtube.com/@EhabMagdyy" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://www.linkedin.com/in/ehabmagdyy" target="_blank">
+  <a href="https://www.linkedin.com/in/ehabmagdy.3" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ehabmagdyabdullah@gmail.com">
@@ -84,7 +84,7 @@
 
 ---
 
-### ☁️ Cloud Platforms
+### ☁️ IoT Platforms
 <div align="center">
 
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFA000?style=for-the-badge&logo=firebase&logoColor=white)

@@ -3,7 +3,7 @@
   <a href="https://youtube.com/@EhabMagdyy" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://www.linkedin.com/in/ehabmagdy.3" target="_blank">
+  <a href="https://www.linkedin.com/in/ehabmagdyy" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ehabmagdyabdullah@gmail.com">
@@ -12,7 +12,7 @@
   <a href="https://www.facebook.com/ehab.magdy.04/" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://www.instagram.com/ehabmagdyx" target="_blank">
+  <a href="https://www.instagram.com/ehabmagdy.3" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 

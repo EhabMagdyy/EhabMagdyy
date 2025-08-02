@@ -88,10 +88,11 @@
 ### ☁️ IoT Platforms
 <div align="center">
 
-![Firebase](https://img.shields.io/badge/Firebase-%23FFA000?style=for-the-badge&logo=firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFA000?style=for-the-badge&logo=firebase&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-%230089D6?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Node-RED](https://img.shields.io/badge/Node--RED-%23D50032?style=for-the-badge&logo=node-red&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-%2300C58C?style=for-the-badge&logo=supabase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%23000000?style=for-the-badge&logo=supabase&logoColor=green)
+![Blynk](https://img.shields.io/badge/Blynk-%2300C94C?style=for-the-badge&logo=blynk&logoColor=white)
 
 </div>
 

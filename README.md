@@ -72,6 +72,7 @@
 ![MS SQL](https://img.shields.io/badge/MS%20SQL-%23CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Keil](https://img.shields.io/badge/Keil-%230074A4?style=for-the-badge&logo=arm&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![STM32CubeMX](https://img.shields.io/badge/STM32CubeMX-%23217576?style=for-the-badge&logo=stm32&logoColor=white) 

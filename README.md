@@ -41,6 +41,7 @@
 ![Bash](https://img.shields.io/badge/Bash-%23121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23F29111?style=for-the-badge&logo=database&logoColor=white)
 
 </div>
 

@@ -80,7 +80,7 @@
 
 ---
 
-### ☁️ IoT Platforms
+### ☁️ Cloud & IoT Platforms
 <div align="center">
 
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFA000?style=for-the-badge&logo=firebase&logoColor=black)
